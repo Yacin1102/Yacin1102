@@ -14,8 +14,8 @@
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=Yacin1102&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yacin1102&layout=compact&hide_border=true&theme=tokyonight" /> </div> <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Yacin1102&hide_border=true&theme=tokyonight" />
+<div align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=Yacin1102&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yacin1102&layout=compact&hide_border=true&theme=nord" /> </div> <div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Yacin1102&hide_border=true&theme=nord" />
 </div>
 
 ---
