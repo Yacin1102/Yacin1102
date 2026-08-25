@@ -20,10 +20,4 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yacin1102&theme=tokyo-night&hide_border=true&area=true" width="100%" /> </div>
-
----
-
 <p align="center"> <sub>Always learning</sub> </p>
