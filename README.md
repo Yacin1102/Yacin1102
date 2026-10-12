@@ -1,4 +1,4 @@
-<div align="center"> <img src="./assets/banner.png" alt="banner" width="100%" /> </div> <h1 align="center">Hi 👋, I'm Yassine</h1> <p align="center"><b>Networks &amp; Systems Engineering Student</b></p> <p align="center"> <a href="https://www.linkedin.com/in/yassine-saad-me"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:yacin.saad.me@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+<div align="center"> <img src="./assets/banner.png" alt="banner" width="100%" /> </div> <h1 align="center">Hi, I'm Yassine</h1> <p align="center"><b>Networks &amp; Systems Engineering Student</b></p> <p align="center"> <a href="https://www.linkedin.com/in/yassine-saad-me"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:yacin.saad.me@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 
 ---
 
