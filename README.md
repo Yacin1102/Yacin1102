@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats
 
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yacin1102&layout=compact&hide_border=true&theme=nord" /> </div> <div align="center">
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yacin1102&layout=compact&hide_border=true&theme=nord" /> </div> <div align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Yacin1102&hide_border=true&theme=nord" />
 </div>
 
